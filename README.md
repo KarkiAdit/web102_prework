@@ -18,28 +18,19 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] Linear Gradient concept was applied to the background of the body elements for more appealing appearance
-* [ ] Hover effects was added to buttons
+* [ ] Hover effects were added to buttons
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Gif Link]([https://imgur.com/UGyZ5jp])
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes
-
-Describe any challenges encountered while building the app.
+GIF created with: Wondershare
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Aditya Karki]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
