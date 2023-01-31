@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster*
 
-Submitted by: **Your Name Here**
+Submitted by: **Aditya Karki**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded. It is purely built using Vanilla.js, CSS3, and HTML5.
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Linear Gradient concept was applied to the background of the body elements for more appealing appearance
+* [ ] Hover effects was added to buttons
 
 ## Video Walkthrough
 
