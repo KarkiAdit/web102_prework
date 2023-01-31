@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Gif Link]([https://imgur.com/UGyZ5jp])
+<img src='https://imgur.com/UGyZ5jp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /
 
 GIF created with: Wondershare
 
